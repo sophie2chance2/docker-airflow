@@ -7,6 +7,10 @@
    Might take a minute to load
    Use the default username and password (airflow/airflow) to login if prompted
 
+## How to Stop
+
+1. Run `docker-compose down` to stop the docker container
+
 ## Initial Set Up
 
 USED THIS TUTORIAL: https://www.youtube.com/watch?v=K9AnJ9_ZAXE  
